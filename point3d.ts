@@ -1,4 +1,3 @@
-/// <reference path="point2d.ts"/>
 import { Point2D } from "./point2d.js"
 
 class Point3D extends Point2D {
